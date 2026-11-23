@@ -1,6 +1,6 @@
 {
   "name": "com.oasisw.unity-porting",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "displayName": "OasisW v2.0 Unity Porting",
   "description": "Unity Editor plugin for OasisW v2.0 project preparation and upload. Project-specific conversion profiles are supplied separately.",
   "unity": "2022.3",
