@@ -12,6 +12,10 @@ https://github.com/FITFUNS/UnityPluginForOasiswV2.git#v0.3.3
 
 공개 저장소의 빌드된 DLL 패키지는 별도의 저장소 읽기 권한 승인 없이 설치할 수 있습니다. 소스와 변환 규칙은 별도 비공개 저장소에 보관합니다. 재현이 필요한 실행에는 검증된 릴리스 태그 또는 커밋을 고정합니다. OasisW 업로드 계정 인증은 플러그인 설치와 별개입니다.
 
+## 사용설명서
+
+[한국어 사용설명서 PDF · 7페이지](https://github.com/FITFUNS/UnityPluginForOasiswV2/releases/download/v0.3.3/OasisW-Unity-Porting-0.3.3-User-Guide-KO.pdf)
+
 ## 사용
 
 1. 원본 Unity 프로젝트를 열고 검증 대상인 WebGL을 활성 빌드 대상으로 맞춥니다.
